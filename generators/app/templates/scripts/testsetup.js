@@ -1,6 +1,6 @@
 /* global
   jasmine
-/*
+*/
 var JEST_JUNIT_OUTPUT_DIR = process.env.JEST_JUNIT_OUTPUT_DIR ||
   'test-reports'
 
